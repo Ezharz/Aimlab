@@ -15,18 +15,6 @@ Sebelum menjalankan proyek ini, pastikan Anda memiliki hal-hal berikut:
 
 - Browser modern (Chrome, Firefox, Safari, dll.)
 
-## Instalasi
-
-1. Clone repositori ini:
-   ```bash
-   https://github.com/Ezharz/Aimlab.git
-   ```
-2. Masuk ke direktori proyek:
-   ```bash
-   cd aim-lab-clone
-   ```
-3. Buka file `index.html` di browser Anda.
-
 ## Cara Bermain
 
 1. Klik pada tombol "Mulai Game" untuk memulai permainan.
