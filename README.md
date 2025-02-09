@@ -19,7 +19,7 @@ Sebelum menjalankan proyek ini, pastikan Anda memiliki hal-hal berikut:
 
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/username/aim-lab-clone.git
+   https://github.com/Ezharz/Aimlab.git
    ```
 2. Masuk ke direktori proyek:
    ```bash
